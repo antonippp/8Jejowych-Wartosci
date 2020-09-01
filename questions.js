@@ -184,7 +184,7 @@ questions = [
             "scty": 0
         }
     },    {
-        "question": "Zmienianie loga jeja by mi nie przeszkadzało",
+        "question": "Zmienienie loga jeja by mi nie przeszkadzało",
         "effect": {
             "econ": 0,
             "dipl": 0,
