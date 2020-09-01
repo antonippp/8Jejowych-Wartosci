@@ -120,7 +120,7 @@ questions = [
             "scty": 0
         }
     },    {
-        "question": "Z jeja ciągle odchodzą starzy użytkownicy i przechodzą nowi i jest to negatywem.",
+        "question": "Z jeja ciągle odchodzą starzy użytkownicy, a przychodzą nowi co jest negatywne.",
         "effect": {
             "econ": 0,
             "dipl": 0,
