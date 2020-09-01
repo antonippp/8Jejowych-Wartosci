@@ -96,7 +96,7 @@ questions = [
             "scty": -10
         }
     },    {
-        "question": "Czy ludzie kojarzą cię z niepoważnymi komentarzami?",
+        "question": "Czy większość twoich komentarzy do baity?",
         "effect": {
             "econ": -10,
             "dipl": 0,
