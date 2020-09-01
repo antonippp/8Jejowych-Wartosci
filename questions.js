@@ -216,7 +216,7 @@ questions = [
             "scty": 0
         }
     },    {
-        "question": "Administracja powinna kontynuować żarty z okazji Primma Aprillis",
+        "question": "Administracja powinna kontynuować żarty z okazji Prima Aprillis",
         "effect": {
             "econ": 0,
             "dipl": 0,
