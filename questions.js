@@ -120,7 +120,7 @@ questions = [
             "scty": 0
         }
     },    {
-        "question": "Z jeja ciągle odchodzą starzy użytkownicy i przechodzą nowi i jest to negatywem.",
+        "question": "Z jeja ciągle odchodzą starzy użytkownicy, a przychodzą nowi i jest to negatywne.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -216,7 +216,7 @@ questions = [
             "scty": 0
         }
     },    {
-        "question": "Administracja powinna kontynuować żarty z okazji Primma Aprillis",
+        "question": "Administracja powinna kontynuować żarty z okazji Prima Aprillis",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -256,9 +256,9 @@ questions = [
             "scty": -10
         }
     },    {
-        "question": "Większość trolli jest nieśmieszna i głupia",
+        "question": "Czy większość twoich komentarzy to baity?",
         "effect": {
-            "econ": 10,
+            "econ": -15,
             "dipl": 0,
             "govt": 0,
             "scty": 0
